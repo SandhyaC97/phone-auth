@@ -4,7 +4,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("C:\Users\HP\my-app\src\assets\blue animated gif.gif"); /* Update the path to your uploaded GIF */
+    background-image: url("C:\Users\HP\AndroidStudioProjects\MY_firstt_application\app\src\androidTest\java\com\example\my_firstt_application\my-app\src\assets\jpganimatesfile.jpg"); /* Update the path to your uploaded GIF */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
